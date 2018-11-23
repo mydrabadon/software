@@ -10,4 +10,6 @@
 <a href="student/showForm">Link to student form</a>
 <br>
 <a href="teacher/showForm">Link to teacher form</a>
+<br>
+<a href="customer/showForm">Link to customer form</a>
 </html>
